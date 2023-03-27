@@ -9,7 +9,11 @@ This is a banking app that was designed to fulfill the following requirements:
 >>After recieving the details we send the user back to the login pages for verification.
 
 >>For old users.
->>We ask for a password. 
+
+>>We ask for a password.
+ 
 >>>We ask for user_details such as email and password and ask if they wish to deposit,withdraw or check balance.
+
 >>>For every choice we as for a user_password.
+
 >>>For incorrect passwords we log users out of the system.
