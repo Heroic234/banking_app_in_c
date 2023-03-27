@@ -1,4 +1,5 @@
 # banking_app_in_c.
+>status:incomplete
 
 This is a banking app that was designed to fulfill the following requirements:
 
